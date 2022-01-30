@@ -1,0 +1,2 @@
+Código: 190 Cor: red Preço: 21000 Quantidade: 1
+Código: 51 Cor: azul Preço: 12354 Quantidade: 2

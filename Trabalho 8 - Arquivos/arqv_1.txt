@@ -1,0 +1,15 @@
+Inscrição:1, Nome do Candidato:Bruno Gomes, Renda familiar:R$581
+Inscrição:2, Nome do Candidato:Bruno Miguel, Renda familiar:R$2308
+Inscrição:3, Nome do Candidato:Mauro Campos, Renda familiar:R$2549
+Inscrição:4, Nome do Candidato:Mauro Miguel, Renda familiar:R$1853
+Inscrição:5, Nome do Candidato:Mauro Martins, Renda familiar:R$978
+Inscrição:6, Nome do Candidato:Isaque de Almeida, Renda familiar:R$1416
+Inscrição:7, Nome do Candidato:Victor Lima, Renda familiar:R$2667
+Inscrição:8, Nome do Candidato:Lidia Martins, Renda familiar:R$879
+Inscrição:9, Nome do Candidato:Mauro Vasconcelos, Renda familiar:R$709
+Inscrição:10, Nome do Candidato:Victor Campos, Renda familiar:R$2206
+Inscrição:11, Nome do Candidato:Miguel Bezerra, Renda familiar:R$2276
+Inscrição:12, Nome do Candidato:Mauro Vasconcelos, Renda familiar:R$2248
+Inscrição:13, Nome do Candidato:Emanoel Lima, Renda familiar:R$2538
+Inscrição:14, Nome do Candidato:Miguel Burguês, Renda familiar:R$1072
+Inscrição:15, Nome do Candidato:Wagner Bezerra, Renda familiar:R$1073
